@@ -16,7 +16,7 @@ This repository contains the setup for a development environment utilizing Docke
 
 ### 1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/youssefaouadni/elastic-search-with-kibana-and-mongo-connectors.git
    cd your-repo
    ```
 

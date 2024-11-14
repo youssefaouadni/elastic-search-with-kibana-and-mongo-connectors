@@ -1,0 +1,10 @@
+connectors:
+-
+  connector_id: "hN2P95EBoYvQjLIJIwng"
+  service_type: "mongodb"
+  api_key: "aGQyUDk1RUJvWXZRakxJSjhBbXc6RzMwRG8wWEtSbUNTaUszemNUTExHZw=="
+elasticsearch:
+  host: "http://elasticsearch:9200"
+  api_key: "aGQyUDk1RUJvWXZRakxJSjhBbXc6RzMwRG8wWEtSbUNTaUszemNUTExHZw=="
+  username: "elastic"
+  password: "password"
